@@ -34,6 +34,7 @@ This project is created to enhance **front-end development skills**, focusing on
 # 📂 Project Structure
 <br>
 📦 amazon-clone
+<br>
 ┣ 📁 images
 <br>
 ┣ 📄 index.html

@@ -32,10 +32,14 @@ This project is created to enhance **front-end development skills**, focusing on
 ---
 
 # 📂 Project Structure
+<br>
 📦 amazon-clone
 ┣ 📁 images
+<br>
 ┣ 📄 index.html
+<br>
 ┣ 📄 style.css
+<br>
 ┗ 📄 README.md
 
 
